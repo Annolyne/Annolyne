@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on such related stuff
-- 📫 How to reach me [...](https://github.com/Annolyne)
+- 📫 How to reach me (https://github.com/Annolyne)
 
 - 
 
